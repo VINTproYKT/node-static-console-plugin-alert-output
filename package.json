@@ -1,0 +1,36 @@
+{
+  "author": {
+    "email": "vintproykt@gmail.com",
+    "name": "Rodion Borisov"
+  },
+  "bugs": {
+    "url": "https://github.com/VINTproYKT/node-static-console-plugin-alert-output/issues"
+  },
+  "dependencies": {
+    "static-console": "latest"
+  },
+  "description": "Plugin for printing your `static-console` messages using `window.alert`.",
+  "homepage": "https://github.com/VINTproYKT/node-static-console-plugin-alert-output#readme",
+  "keywords": [
+    "plugin",
+    "output",
+    "console",
+    "alert",
+    "window",
+    "message"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "vintproykt@gmail.com",
+      "name": "vintproykt"
+    }
+  ],
+  "name": "static-console-plugin-alert-output",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VINTproYKT/node-static-console-plugin-alert-output.git"
+  },
+  "version": "1.0.0"
+}
